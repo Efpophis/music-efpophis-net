@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="hero">
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}<p>{{ page.summary }}</p>{% endif %}
+  <div class="meta">
+    {% if page.years %}<span>{{ page.years }}</span>{% endif %}
+    {% if page.style %}<span>{{ page.style }}</span>{% endif %}
+  </div>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <p class="kicker">About this project</p>
+    {{ content }}
+  </div>
+
+  <div class="card">
+    <p class="kicker">Albums</p>
+    <ul>
+      {% assign albums = site.albums | where: 'project', page.slug | sort: 'release_date' %}
+      {% for a in albums %}
+        <li>
+          <a href="{{ a.url | relative_url }}"><strong>{{ a.title }}</strong></a>
+          {% if a.release_date %} — {{ a.release_date | date: '%Y-%m-%d' }}{% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

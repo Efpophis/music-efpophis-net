@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="container">
+      {% include header.html %}
+      {{ content }}
+      <div class="footer">
+        <div>© {{ site.time | date: '%Y' }} Bill Crossley. Built with GitHub Pages.</div>
+      </div>
+    </div>
+  </body>
+</html>

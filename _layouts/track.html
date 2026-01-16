@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="hero">
+  <h1>{{ page.title }}</h1>
+  <div class="meta">
+    {% if page.artist %}<span>{{ page.artist }}</span>{% endif %}
+    {% if page.album %}<span>Album: <a href="{{ '/albums/' | append: page.album | append: '/' | relative_url }}">{{ page.album }}</a></span>{% endif %}
+    {% if page.track_number %}<span>Track {{ page.track_number }}</span>{% endif %}
+  </div>
+</div>
+
+<div class="grid">
+  <div class="card">
+    <p class="kicker">Listen</p>
+    {% if page.embed_html %}
+      <div class="embed">{{ page.embed_html }}</div>
+    {% else %}
+      <p>Add an embed snippet (Audiomack/Audius/YouTube) via <code>embed_html</code>.</p>
+    {% endif %}
+
+    {% if page.notes %}
+      <hr>
+      <p class="kicker">Notes</p>
+      <p>{{ page.notes }}</p>
+    {% endif %}
+  </div>
+
+  <div class="card">
+    <p class="kicker">Lyrics</p>
+    {% if content and content != '' %}
+      <div class="lyrics">{{ content }}</div>
+    {% else %}
+      <p>No lyrics added yet.</p>
+    {% endif %}
+  </div>
+</div>

@@ -1,0 +1,44 @@
+title: "Music"
+description: "The canonical home for Bill Crossley's music catalog."
+url: "https://music.efpophis.net"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink: pretty
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+  albums:
+    output: true
+    permalink: /albums/:name/
+  tracks:
+    output: true
+    permalink: /tracks/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: "albums"
+    values:
+      layout: album
+  - scope:
+      path: ""
+      type: "tracks"
+    values:
+      layout: track
+
+# GitHub Pages safe mode uses a fixed set of plugins. These are supported.
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
