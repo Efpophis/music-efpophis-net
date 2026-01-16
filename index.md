@@ -13,7 +13,8 @@ title: Home
     <h2>Projects</h2>
     <p>Organized by era/project to keep the catalog coherent (and future-proof).</p>
     <ul>
-      {% for p in site.projects %}
+      {% assign sorted = site.projects | sort: 'sort_order' %}
+      {% for p in sorted %} 
         <li><a href="{{ p.url | relative_url }}"><strong>{{ p.title }}</strong></a> — {{ p.summary }}</li>
       {% endfor %}
     </ul>

@@ -5,7 +5,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   <div class="meta">
     {% if page.artist %}<span>{{ page.artist }}</span>{% endif %}
-    {% if page.album %}<span>Album: <a href="{{ '/albums/' | append: page.album | append: '/' | relative_url }}">{{ page.album }}</a></span>{% endif %}
+    {% if page.album %}<span>Album: <a href="{{ '/albums/' | append: page.album | append: '/' | relative_url }}">{{ page.album_title }}</a></span>{% endif %}
     {% if page.track_number %}<span>Track {{ page.track_number }}</span>{% endif %}
   </div>
 </div>
@@ -29,7 +29,7 @@ layout: default
   <div class="card">
     <p class="kicker">Lyrics</p>
     {% if content and content != '' %}
-      <div class="lyrics">{{ content }}</div>
+    <div class="lyrics">{{ content }}</div>
     {% else %}
       <p>No lyrics added yet.</p>
     {% endif %}
