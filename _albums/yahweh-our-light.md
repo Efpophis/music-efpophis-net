@@ -15,7 +15,7 @@ embed_html: |
   <iframe src="https://audiomack.com//embed/billcrossley/album/yahweh-our-light-1" scrolling="no" width="100%" height="250" frameborder="0" title="Yahweh Our Light"></iframe>
 ---
 
-If you do nothing else while you're here, please read https://blog.efpophis.net/p/the-redeemer-project.html 
+## If you do nothing else while you're here, please read [this](https://blog.efpophis.net/p/the-redeemer-project.html). 
 
 This is my second AI-generated album, and, depending on how much more inspiration I have, it may be the last one for a while.
 
