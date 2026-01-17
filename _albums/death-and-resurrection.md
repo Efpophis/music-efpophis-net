@@ -13,9 +13,7 @@ listen_links:
     url: https://youtube.com/@theredeemerprojectmetal
 embed_html: |
    <iframe src="https://audiomack.com/embed/album/billcrossley/death-and-resurrection" width="100%" height="250" frameborder="0" scrolling="no"></iframe>
----
-
-
+--- 
 Ultimately, I am making this album to express my faith in Jesus Christ, to worship him with music that I like, and to share my own testimony in the hope that maybe someone, somewhere, will hear it and be inspired to Believe in Him for the first time, or once again. That said, there are a few songs on here that are not of an overtly Christian nature, but it is still there, under the surface - except for the Klingon one, which is just for fun. 
 
 The message I want to convey is this: Jesus Christ is the only Son of God, who was born of the Virgin Mary. He healed the sick and preached the gospel with his disciples. Then he was crucified, dead, and buried. On the third day, He rose from the dead, defeating sin and death once and for all time. Every human being is, by nature, a sinner and therefore incapable of a relationship with God, and if they die in this state, will not enter heaven. But, through Jesus, God has provided a way for us to be saved, forgiven, reconciled with him, and to have eternal life in heaven. All we have to do is believe in Jesus and trust him to forgive our sins. This is not something we can earn. There is no ritual or sacrament that we must receive. It is a gift we freely receive. We need only admit our sinfulness, repent of it, ask God in faith for forgiveness and eternal life, and commit to following Jesus. If you are reading this and have not done so, then I hope these words and this music will encourage and inspire you to make that decision today.

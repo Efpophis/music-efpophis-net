@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tracks
-subtitle: "Track pages with lyrics and notes."
+subtitle: "A list of all tracks, grouped by album and sorted by release date."
 ---
 
 {% comment %}

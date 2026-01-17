@@ -37,5 +37,9 @@ title: Home
       <span class="tag"><a href="{{ '/tracks/' | relative_url }}">Browse tracks / lyrics</a></span>
       <span class="tag"><a href="{{ '/about/' | relative_url }}">About</a></span>
     </div>
+    <div class="tagrow"> 
+      <span class="tag"><a href="https://youtube.com/@theredeemerprojectmetal">YouTube</a></span>
+      <span class="tag"><a href="https://www.facebook.com/profile.php?id=61558951555423">FaceBook</a></span>
+    </div>
   </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Albums
-subtitle: "All releases in one list."
+subtitle: "All releases in one list, sorted by release date."
 ---
 
 <ul>

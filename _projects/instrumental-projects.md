@@ -7,4 +7,8 @@ sort_order: 3
 style: "Instrumental / cinematic"
 ---
 
-A short umbrella page for instrumental releases.
+These are non-metal / mostly instrumental releases.
+
+They are all AI generated, occasionally with added human bits like vocals or other samples.
+
+These will be more esoteric and experimental than my mainstream albums and projects.
