@@ -14,8 +14,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/star-spangled-banner" scrolling="no" width="100%" height="252" frameborder="0" title="Star Spangled Banner"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 Please rise for our national anthem ....
 

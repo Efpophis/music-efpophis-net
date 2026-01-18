@@ -12,8 +12,6 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/song/ARTIST/TRACKSLUG" width="100%" height="110" frameborder="0" scrolling="no"></iframe>
   -->
-  PASTE_EMBED_IFRAME_HERE
+  <iframe src="https://audiomack.com//embed/billcrossley/song/prologue" scrolling="no" width="100%" height="252" frameborder="0" title="Prologue"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
-
+# Instrumental

@@ -23,8 +23,6 @@ notes: |
   <p>You'll notice I specifically didn't mention Jesus by name in any of these verses. Also, only the bridge references anything from the New Testament at all. And yet, you probably knew exactly who I was talking about. Now, consider this: most of these words were spoken by a prophet who lived centuries BEFORE Jesus was born.</p>
 
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 Who could believe what we have heard?

@@ -5,6 +5,16 @@ summary: "Experimental AI Generated (mostly) Christian (mostly) Metal"
 years: "2024–2025"
 sort_order: 1
 style: "Various (Christian metal, experimental)"
+download_links:
+    - label: "Download MP3"
+      url: https://mega.nz/file/QRIUHCza#LOme7NvnyNRQdTxa694pOSL7EH12yAVuX25hVUT-u0E
+      comment: "320kbps high quality. Most compatible."
+    - label: "Download M4A"
+      url: https://mega.nz/file/IAhjFa5Y#KIOBs5DpnT31XpZdV-V4yuhFYi6LskFHOHEH_sOug_M
+      comment: "Apple AAC files. Smallest files size."
+    - label: "Download FLAC"
+      url: https://mega.nz/file/9UxSQQpQ#MyqfB-nzvx7lLjO5rDjOhr0c6NowvXUYak7U16Q1Tkg
+      comment: "Lossless for audiophiles. Largest file size."
 ---
 
 

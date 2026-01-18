@@ -14,6 +14,3 @@ embed_html: |
   -->
   PASTE_EMBED_IFRAME_HERE
 ---
-
-<!-- Lyrics / commentary go here. -->
-

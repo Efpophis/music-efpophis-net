@@ -6,18 +6,30 @@ project: the-redeemer-project
 artist: The Redeemer Project
 release_date: 2024-07-04
 cover: /assets/img/americana.jpg
-
+listen_links:
+  - label: Audiomack
+    url: https://audiomack.com/billcrossley/album/americana-1
+  - label: YouTube
+    url: https://youtube.com/@theredeemerprojectmetal
+download_links:
+  - label: "Download MP3"
+    comment: "320kbps high quality. Most compatible."
+    url: https://mega.nz/file/oJBy1YBQ#3mh25betr9Eet2qm24Bu3zR5fnDDexpEYkfReuJNF2o
+  - label: "Download M4A"
+    comment: "Apple AAC files. Smallest files size."
+    url: https://mega.nz/file/1dI2ABTR#upRhY1ycU6p662uHvf3wXwtovfvQnE0nKY4Et79z1vs
+  - label: "Download FLAC"
+    comment: "Lossless for audiophiles. Largest file size."
+    url: https://mega.nz/file/FNAS2b7R#yJBmpRdVsNaRsGKAOlEfzpuLr5ezUXqkJtqdMzFbGow
 embed_html: |
   <!-- Paste the Audiomack ALBUM embed iframe here -->
   <!-- Example:
   <iframe src="https://audiomack.com/embed/album/ARTIST/ALBUMSLUG" width="100%" height="305" frameborder="0" scrolling="no"></iframe>
   -->
-  PASTE_EMBED_IFRAME_HERE
+  <iframe src="https://audiomack.com//embed/billcrossley/album/americana-1" scrolling="no" width="100%" height="252" frameborder="0" title="Americana"></iframe>
 ---
 
 <!-- Album description / liner notes go here. -->
-## If you do nothing else while you're here, please read [this](https://blog.efpophis.net/p/the-redeemer-project.html).
-
 This "single" was a random idea that came to me when someone posted a rendition of Star Spangled Banner to a chat room I was in around mid-June, 2024. I thought it would be fun to put together a short release of a few American patriotic songs from the public domain and release it on July 4.
 
 As it turns out, there aren't a whole lot of good patriotic songs in the public domain. So I did three. 

@@ -8,15 +8,22 @@ cover: /assets/img/yahweh-our-light.jpg
 release_date: 2024-06-08
 listen_links:
   - label: Audiomack
-    url: https://https://audiomack.com/billcrossley/album/yahweh-our-light-1
+    url: https://audiomack.com/billcrossley/album/yahweh-our-light-1
   - label: YouTube
     url: https://www.youtube.com/watch?v=x1VhaKwlH_c
+download_links:
+  - label: "Download MP3"
+    comment: "320kbps high quality. Most compatible."
+    url: https://mega.nz/file/IFBXxZyA#idpELQZtG7dkhrR4z7CBgBymUgfl1KDRHKJfTnaujIM
+  - label: "Download M4A"
+    comment: "Apple AAC files. Smallest files size."
+    url: https://mega.nz/file/FF4wgSBC#Ih5rB043Ly1peo3KQ6AmbjlmZ_4_kCXvRrLPOav4h2E
+  - label: "Download FLAC"
+    comment: "Lossless for audiophiles. Largest file size."
+    url: https://mega.nz/file/BI4kWRRY#iyhlcYF77kuF5Z3jdVXz5laMFIuvrZYxWBfvOcIJcxc
 embed_html: |
   <iframe src="https://audiomack.com//embed/billcrossley/album/yahweh-our-light-1" scrolling="no" width="100%" height="250" frameborder="0" title="Yahweh Our Light"></iframe>
 ---
-
-## If you do nothing else while you're here, please read [this](https://blog.efpophis.net/p/the-redeemer-project.html). 
-
 This is my second AI-generated album, and, depending on how much more inspiration I have, it may be the last one for a while.
 
 My purpose for this remains the same: to glorify God the Father, Son, and Holy Spirit with music that I enjoy, and to see what kind of crazy the AI would generate this time around.

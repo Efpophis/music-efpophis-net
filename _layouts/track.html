@@ -35,3 +35,58 @@ layout: default
     {% endif %}
   </div>
 </div>
+{% assign album_tracks = site.tracks | where: "album", page.album | sort: "track_number" %}
+{% assign album_doc = site.albums | where: "slug", page.album | first %}
+
+{% assign prev_track = nil %}
+{% assign next_track = nil %}
+
+{% for t in album_tracks %}
+  {% if t.url == page.url %}
+    {% assign idx = forloop.index0 %}
+
+    {% if idx > 0 %}
+      {% assign prev_idx = idx | minus: 1 %}
+      {% assign prev_track = album_tracks[prev_idx] %}
+    {% endif %}
+
+    {% assign last_idx = album_tracks.size | minus: 1 %}
+    {% if idx < last_idx %}
+      {% assign next_idx = idx | plus: 1 %}
+      {% assign next_track = album_tracks[next_idx] %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if prev_track or next_track or album_doc %}
+  <div class="card track-nav-card">
+    <div class="track-nav-row">
+      <div class="track-nav-col track-nav-prev">
+        {% if prev_track %}
+          <a class="tag track-nav-link" href="{{ prev_track.url }}">← {{ prev_track.title }}</a>
+        {% else %}
+          <span class="track-nav-muted">←</span>
+        {% endif %}
+      </div>
+
+      <div class="track-nav-col track-nav-album">
+        {% if album_doc %}
+          <a class="tag track-nav-albumlink" href="{{ album_doc.url }}">
+            {{ album_doc.title }}
+          </a>
+        {% else %}
+          <span class="track-nav-albumtext">{{ page.album_title | default: page.album }}</span>
+        {% endif %}
+      </div>
+
+      <div class="track-nav-col track-nav-next">
+        {% if next_track %}
+          <a class="tag track-nav-link" href="{{ next_track.url }}">{{ next_track.title }} →</a>
+        {% else %}
+          <span class="track-nav-muted">→</span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endif %}
+

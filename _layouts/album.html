@@ -24,11 +24,13 @@ layout: default
     {% endif %}
 
     {% if page.listen_links %}
+      <p class="kicker">Stream</p>
       <div class="tagrow">
         {% for l in page.listen_links %}
           <span class="tag"><a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a></span>
         {% endfor %}
-      </div>      
+      </div>
+      <hr>
     {% endif %}
     <p class="kicker">Description / liner notes</p>
     {{ content }}
@@ -44,6 +46,19 @@ layout: default
 
     <hr>
     
+    {% if page.download_links %}
+      <p class="kicker">Download</p>              
+        {% for l in page.download_links %}
+          <span class="tag"><a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a></span>
+          {% if l.comment %}
+            {{ l.comment }}
+            <BR>
+            <BR>
+          {% endif %}
+        {% endfor %}
+      <hr>
+    {% endif %}
+    
     <p class="kicker">Tracklist</p>
     <ol>
       {% assign tracks = site.tracks | where: 'album', page.slug | sort: 'track_number' %}
@@ -56,4 +71,46 @@ layout: default
     </ol>
     
   </div>
+  {% assign all_albums = site.albums | sort: "release_date" %}
+
+  {% assign prev_album = nil %}
+  {% assign next_album = nil %}
+
+  {% for a in all_albums %}
+    {% if a.url == page.url %}
+      {% assign idx = forloop.index0 %}
+      {% if idx > 0 %}
+        {% assign prev_idx = idx | minus: 1 %}
+        {% assign prev_album = all_albums[prev_idx] %}
+      {% endif %}
+
+      {% assign last_idx = all_albums.size | minus: 1 %}
+      {% if idx < last_idx %}
+        {% assign next_idx = idx | plus: 1 %}
+        {% assign next_album = all_albums[next_idx] %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% if prev_album or next_album %}
+    <div class="card album-nav-card">
+      <div class="album-nav-row">
+        <div class="album-nav-col album-nav-prev">
+          {% if prev_album %}
+            <a class="tag" href="{{ prev_album.url }}">← {{ prev_album.title }}</a>
+          {% endif %}
+        </div>
+
+        <div class="album-nav-col album-nav-center">
+          <a class="tag" href="/albums/">All albums</a>
+        </div>
+
+        <div class="album-nav-col album-nav-next">
+          {% if next_album %}
+            <a class="tag" href="{{ next_album.url }}">{{ next_album.title }} →</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
 </div>

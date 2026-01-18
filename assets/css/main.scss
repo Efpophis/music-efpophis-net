@@ -10,6 +10,19 @@ body {
   color: var(--fg);
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
   line-height: 1.55;
+  background-image: url("/assets/img/background.png");
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65); /* adjust darkness here */
+  z-index: -1;
 }
 
 a { color: var(--accent); text-decoration: none; }
@@ -151,3 +164,57 @@ hr { border: none; border-top: 1px solid var(--border); margin: 18px 0; }
   color: var(--muted);
   font-size: 13px;
 }
+
+.track-nav-card {
+  margin-top: 1.5rem;
+}
+
+.track-nav-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.track-nav-col {
+  flex: 1;
+  min-width: 0;
+}
+
+.track-nav-prev { text-align: left; }
+.track-nav-next { text-align: right; }
+.track-nav-album { text-align: center; }
+
+.track-nav-link,
+.track-nav-albumlink {
+  text-decoration: none;
+}
+
+.track-nav-link {
+  display: inline-block;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.track-nav-albumlink {
+  font-weight: 600;
+  opacity: 0.9;
+}
+
+.track-nav-muted {
+  opacity: 0.35;
+}
+
+.album-nav-card { margin-top: 1.5rem; }
+
+.album-nav-row {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.album-nav-col { flex: 1; min-width: 0; }
+.album-nav-prev { text-align: left; }
+.album-nav-center { text-align: center; }
+.album-nav-next { text-align: right; }

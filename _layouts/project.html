@@ -15,8 +15,12 @@ layout: default
     <p class="kicker">About this project</p>
     {{ content }}
   </div>
-
-  <div class="card">
+  {% if page.download_links %}
+    {% assign class = "card half" %}
+  {% else %} 
+    {% assign class = "card" %}
+  {% endif %}
+  <div class="{{ class }}">
     <p class="kicker">Albums</p>
     <ul>
       {% assign albums = site.albums | where: 'project', page.slug | sort: 'release_date' %}
@@ -28,4 +32,17 @@ layout: default
       {% endfor %}
     </ul>
   </div>
+  {% if page.download_links %}
+  <div class="card half">
+    <p class="kicker">Download Entire Discography</p>
+    {% for l in page.download_links %}
+    <span class="tag"><a href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a></span>
+    {% if l.comment %}
+    {{ l.comment }}
+    {% endif %}
+    <br>
+    <br>
+    {% endfor %}    
+  </div>
+  {% endif %}
 </div>
