@@ -1,7 +1,7 @@
 ---
 slug: instrumental-projects
 title: Instrumental Projects
-summary: "Instrumental and meditative works."
+summary: "Instrumental and meditative works. AI-generated miscellaneous stuff."
 years: "2025–present"
 sort_order: 3
 style: "Instrumental / cinematic"

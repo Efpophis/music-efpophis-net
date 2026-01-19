@@ -34,3 +34,37 @@ I've called this album 'Death and Resurrection' primarily because the contents f
 
 One thing you'll notice that I want to touch on here is that I make liberal use of the Divine Name, Yahweh, throughout many of the songs. I have done this in order to be more true to the original inspiration for these words, that is, God Himself, who gave Israel and the world that Name to address and invoke him. Over the years, the Name has been treated as being so sacred that, traditionally, no one dared speak it lest it be blasphemed accidentally, instead substituting Adonai (heb) or The LORD (English). In fact, whenever you see "The LORD" in, for example, the King James Bible, the original text actually says Yahweh. Hence, in Kadosh, the singer proclaims "Holy Holy Holy Holy, Yahweh God Lord of hosts" using the actual name as written in the scripture that inspired it. I do not believe that "accidental blasphemy" is possible, as blasphemy originates in the heart with the intent to blaspheme. I do, however, believe we are missing out on manifold blessings by not invoking our God with the Name He gave us to use for that purpose. So .. yeah, I went a little nuts with it, but I trust that's ok.
 
+The Redeemer Project would like to thank:
+
+* First and foremost, my Lord and Saviour, Jesus Christ.
+* My OG Redeemer band-mates Mark Fisher, Scott Mattson, Mark Rounds, and Dan Walter, 
+  for giving me their blessing for this project and letting me
+  steal .. I mean cover .. their songs.
+* The creators and maintaners of suno.com for the technology that made this possible.
+* The creators and maintainers of Audacity (www.audacityteam.org)
+* Merillee Schmidt, my high school music teacher who gave me an appreciation for singing, especially in foreign languages. Her influence on this album should be obvious.
+* Every Christian musician ever, and especially the following in no particular order:
+    * Deliverance
+    * Eric Clayton and his bands: Saviour Machine, and The Nine
+    * Antestor
+    * Parakletos
+    * Mortification
+    * Horde
+    * Petra
+    * Whitecross
+    * Renascent
+    * Dawnbreaker
+    * Crimson Moonlight
+    * Stryper, without whom, there wouldn't even BE Christian metal
+    * and many, many more
+* Other influences:
+    * DragonForce (Stripes sounds like a cheesy ripoff of these guys, which is awesome)
+    * Babymetal
+    * Alice Cooper
+    * The HU
+* Gene Roddenberry
+* Emporer Kahless, Chancellor Gorkon, and the Klingon High Council
+* The Randy Disher Project - if you know, you know.
+* All members of The Squirrel Hill Society for the Preservation of 
+  Perked Coffee and Pied Billed Grebes
+

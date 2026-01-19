@@ -1,7 +1,7 @@
 ---
 slug: solo-works
 title: Solo Works
-summary: "Bill Crossley 'solo' releases"
+summary: "Bill Crossley 'solo' releases. AI-Generated Christian Metal."
 years: "2025–present"
 sort_order: 2
 style: "Christian metal / liturgical extreme metal"

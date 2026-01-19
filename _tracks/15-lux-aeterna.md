@@ -12,8 +12,63 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/song/ARTIST/TRACKSLUG" width="100%" height="110" frameborder="0" scrolling="no"></iframe>
   -->
-  PASTE_EMBED_IFRAME_HERE
+  <iframe src="https://audiomack.com//embed/billcrossley/song/lux-aeterna" scrolling="no" width="100%" height="252" frameborder="0" title="Lux Aeterna"></iframe>
 ---
+```text
+[Chorus]
+Lux aeterna (lux aeterna)
+Luceat eis, Domine,
+Cum sanctis tuis in aeternum,
+Quia pius es. (lux aeterna)
 
-<!-- Lyrics / commentary go here. -->
+[Verse]
+Requiem aeternam (et lux aeternam) dona eis Domine,
+Et lux perpetua luceat eis, (requiem)
+Quia pius es.
 
+[Chorus]
+Lux aeterna (lux aeterna)
+Luceat eis, Domine,
+Cum sanctis tuis in aeternum,
+Quia pius es. (lux aeterna)
+
+[Bridge]
+Requiem aeternam dona eis Domine,
+Et lux perpetua luceat eis,
+Quia pius es.
+
+[Bridge]
+Requiem aeternam dona eis Domine,
+Et lux perpetua luceat eis,
+Quia pius es.
+
+[Chorus]
+Lux aeterna (lux aeterna)
+Luceat eis, Domine,
+Cum sanctis tuis in aeternum,
+Quia pius es. (lux aeterna)
+
+[Bridge]
+Requiem aeternam dona eis Domine,
+Et lux perpetua luceat eis,
+Quia pius es.
+
+[Outro]
+Lux aeterna (lux aeterna)
+Luceat eis, Domine,
+Cum sanctis tuis in aeternum,
+Quia pius es. (lux aeterna)
+```
+<div class="lyrics">
+  Translation:
+
+  [Chorus] + [Outro]
+  Let everlasting light shine upon them, Lord,
+  With Your saints forever,
+  For You art merciful.
+
+  [Verse] + [Bridge]
+  Grant them eternal rest, Lord,
+  And let perpetual light shine upon them,
+  For You are merciful.
+</div>

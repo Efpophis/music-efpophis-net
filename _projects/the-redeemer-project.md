@@ -1,7 +1,7 @@
 ---
 slug: the-redeemer-project
 title: The Redeemer Project
-summary: "Experimental AI Generated (mostly) Christian (mostly) Metal"
+summary: "Experimental AI Generated (mostly) Christian (mostly) Metal."
 years: "2024–2025"
 sort_order: 1
 style: "Various (Christian metal, experimental)"

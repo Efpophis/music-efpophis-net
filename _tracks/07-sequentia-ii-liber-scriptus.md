@@ -12,8 +12,58 @@ embed_html: |
   <!-- Example:
   <iframe src="https://audiomack.com/embed/song/ARTIST/TRACKSLUG" width="100%" height="110" frameborder="0" scrolling="no"></iframe>
   -->
-  PASTE_EMBED_IFRAME_HERE
+  <iframe src="https://audiomack.com//embed/billcrossley/song/sequentia-ii-liber-scriptus" scrolling="no" width="100%" height="252" frameborder="0" title="Sequentia II: Liber Scriptus"></iframe>
 ---
+```text
+[Verse]
+Liber scriptus proferetur
+In quo totum continetur,
+Unde mundus judicetur.
 
-<!-- Lyrics / commentary go here. -->
 
+[Chorus]
+Quid sum miser tunc dicturus,
+Quem patronum rogaturus, 
+Cum vix justus sit securus?
+
+[Chorus]
+Quid sum miser tunc dicturus,
+Quem patronum rogaturus, 
+Cum vix justus sit securus?
+
+
+[Verse 2]
+Judex ergo cum sedebit
+Quidquid latet apparebit,
+Nil inultum remanebit.
+
+
+[Chorus]
+Quid sum miser tunc dicturus,
+Quem patronum rogaturus,
+Cum vix justus sit securus?
+
+[Outro]
+Quid sum miser tunc dicturus,
+Quem patronum rogaturus,
+Cum vix justus sit securus?
+```
+
+<div class="lyrics">
+  Translation:
+
+  [Verse]
+  The written book shall be brought
+  In which all is contained
+  Whereby the world shall be judged
+
+  [Verse 2]
+  When the judge takes his seat
+  All that is hidden shall appear
+  Nothing will remain unavenged.
+
+  [Chorus] + [Outro]
+  What shall I, a wretch, say then?
+  To which protector shall I appeal
+  When even the just man is barely safe?
+</div>
