@@ -5,7 +5,9 @@ slug: seven
 project: "the-redeemer-project"
 artist: "The Redeemer Project"
 release_date: 2025-03-14
-cover: /assets/img/seven.jpg 
+cover: /assets/img/seven.jpg
+og_image: /assets/img/seven.jpg
+description: "The Redeemer Project's final album"
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/seven

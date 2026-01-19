@@ -5,7 +5,9 @@ slug: god-with-us
 project: "the-redeemer-project"
 artist: "The Redeemer Project"
 release_date: 2024-11-29
-cover: /assets/img/god-with-us.jpg 
+cover: /assets/img/god-with-us.jpg
+og_image: /assets/img/god-with-us.jpg
+description: "A metal (and other genres) Christmas album."
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/god-with-us

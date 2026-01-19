@@ -5,7 +5,9 @@ slug: requiem-ex-mortis
 project: "the-redeemer-project"
 artist: "The Redeemer Project"
 release_date: 2024-10-31
-cover: /assets/img/requiem-ex-mortis.jpg 
+cover: /assets/img/requiem-ex-mortis.jpg
+og_image: /assets/img/requiem-ex-mortis.jpg
+description: "A full length latin Requiem mass in black metal."
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/requiem-ex-mortis

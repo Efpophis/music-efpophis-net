@@ -6,6 +6,8 @@ project: solo-works
 artist: "Bill Crossley"
 cover: /assets/img/mors-stupebit.jpg
 release_date: 2025-09-28
+og_image: /assets/img/mors-stupebit.jpg
+description: "Bill Crossley's debut 'solo' album."
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/mors-stupebit

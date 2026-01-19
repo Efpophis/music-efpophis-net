@@ -6,6 +6,8 @@ project: instrumental-projects
 artist: "Bill Crossley"
 cover: /assets/img/song-of-the-shinobi.jpg 
 release_date: 2025-09-29
+og_image: /assets/img/song-of-the-shinobi.jpg
+description: "Good background music for martial arts training."
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/song-of-the-shinobi

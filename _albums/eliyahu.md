@@ -6,6 +6,8 @@ project: the-redeemer-project
 artist: The Redeemer Project
 release_date: 2024-08-24
 cover: /assets/img/eliyahu.jpg
+og_image: /assets/img/eliyahu.jpg
+description: "A metal concept album about the life of the prophet Elijah"
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/eliyahu

@@ -6,6 +6,8 @@ project: the-redeemer-project
 artist: "The Redeemer Project"
 cover: /assets/img/yahweh-our-light.jpg
 release_date: 2024-06-08
+og_image: /assets/img/yahweh-our-light.jpg
+description: "The Redeemer Project's second album."
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/yahweh-our-light-1

@@ -6,6 +6,8 @@ project: the-redeemer-project
 artist: The Redeemer Project
 release_date: 2024-07-04
 cover: /assets/img/americana.jpg
+og_image: /assets/img/americana.jpg
+description: "American patriotic songs reborn as metal bangers."
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/americana-1

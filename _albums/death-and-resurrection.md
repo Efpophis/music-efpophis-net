@@ -6,6 +6,8 @@ project: the-redeemer-project
 release_date: 2024-04-26
 summary: "Experimental AI-generated Christian metal."
 cover: /assets/img/death-and-resurrection.jpg
+og_image: /assets/img/death-and-resurrection.jpg
+description: "Experimental AI-generated Christian metal and other genres."
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/death-and-resurrection

@@ -6,6 +6,8 @@ project: instrumental-projects
 artist: "Bill Crossley"
 cover: /assets/img/moonlight-meditations.jpg 
 release_date: 2025-09-30
+og_image: /assets/img/moonlight-meditations.jpg
+description: "An instrumental metal meditation on the Fruit of the Spirit"
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/moonlight-meditations
