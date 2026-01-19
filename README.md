@@ -1,3 +1,3 @@
 # music.efpophis.net site 
 
-Please visit the full site at [music.efpophis.net](https://music.efpophis.net){:target="_blank" rel="noopener noreferrer"}
+Please visit the full site at <a href="https://music.efpophis.net" target=_blank>music.efpophis.net</a>
