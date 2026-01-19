@@ -5,7 +5,7 @@ import sys
 import unicodedata
 from pathlib import Path
 import shutil
- 
+
 from mutagen.flac import FLAC  # pip install mutagen
  
 def yaml_quote(s: str) -> str:

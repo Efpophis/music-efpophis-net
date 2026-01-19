@@ -6,6 +6,7 @@ album: god-with-us
 album_title: "God With Us"
 artist: "The Redeemer Project"
 track_number: 7
+hide_lyrics: 1
 notes: |
   <p>The word "Advent" is a compound word derived from the Latin phrase "ad vent," meaning "until he comes."</p>
   <p>This is just a neat TSO-style instrumental track.</p>

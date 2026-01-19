@@ -6,7 +6,7 @@ album: eliyahu
 album_title: Eliyahu
 artist: The Redeemer Project
 track_number: 1
-
+hide_lyrics: 1
 embed_html: |
   <!-- Paste the Audiomack TRACK embed iframe here -->
   <!-- Example:

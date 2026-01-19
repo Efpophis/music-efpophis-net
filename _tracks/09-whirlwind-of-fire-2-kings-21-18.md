@@ -6,6 +6,7 @@ album: eliyahu
 album_title: Eliyahu
 artist: The Redeemer Project
 track_number: 9
+hide_lyrics: 1
 notes: |
   <p>At last, Elijah's struggles are over, and God grants him an extraordinary favor: he is taken into heaven without having to face death. The scripture says he was taken by a whirlwind of fire, with flaming chariots and horses.</p>
 

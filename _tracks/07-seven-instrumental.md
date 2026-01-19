@@ -6,6 +6,7 @@ album: seven
 album_title: "Seven"
 artist: "The Redeemer Project"
 track_number: 7
+hide_lyrics: 1
 notes: |
   <p>Way back in the day, I came up with a little riff I would play on any piano or keyboard I ran across. I would play it to warm up for band practice and gigs, in church when a bunch of us would hang around after service, etc. I always wanted to bring it to life, but never had the chance. Until now.</p>
 

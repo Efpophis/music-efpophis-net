@@ -7,6 +7,7 @@ album_title: Americana
 artist: The Redeemer Project
 track_number: 5
 notes: "This is just an experimental ambient metal track."
+hide_lyrics: 1
 embed_html: |
   <!-- Paste the Audiomack TRACK embed iframe here -->
   <!-- Example:

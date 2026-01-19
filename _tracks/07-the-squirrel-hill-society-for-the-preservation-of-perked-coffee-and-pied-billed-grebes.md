@@ -6,6 +6,7 @@ album: death-and-resurrection
 album_title: Death and Resurrection
 artist: The Redeemer Project
 track_number: 7
+hide_lyrics: 1
 notes: |
   <p>I grew up in the middle of nowhere, 12 miles (that's about 30km for you metric types) from the nearest traffic light, in an extremely rural area of western NY state. As such, the choices of music on the radio were mostly limited to country and country-western.</p>
   <p>We jokingly called the dirt road I lived on "Squirrel Hill," and some of the neighbors would get together frequently for coffee, card games, and such. Thus, the Squirrel Hill Society for the Preservation of Perked Coffee and Pied Billed Grebes was born as a joke name for the neighborhood card players, coffee drinkers, and purveyors of gossip.</p>

@@ -6,6 +6,7 @@ album: yahweh-our-light
 album_title: Yahweh Our Light
 artist: The Redeemer Project
 track_number: 8
+hide_lyrics: 1
 notes: |
   <p>I wanted to do a blues tune for a couple of reasons:</p>
 
