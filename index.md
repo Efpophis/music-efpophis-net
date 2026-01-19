@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: "Bill Crossley's Music Catalog"
 ---
 <div class="hero"> 
   <h1>Bill's Music Page</h1>
