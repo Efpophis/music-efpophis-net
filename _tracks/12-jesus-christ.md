@@ -17,8 +17,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/jesus-christ" scrolling="no" width="100%" height="252" frameborder="0" title="Jesus Christ"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse]
 In a world full of darkness and doubt

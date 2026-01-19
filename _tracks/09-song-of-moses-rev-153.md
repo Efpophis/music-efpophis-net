@@ -17,8 +17,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/song-of-moses-rev-153" scrolling="no" width="100%" height="252" frameborder="0" title="Song of Moses (Rev. 15:3)"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 I saw a multitude 

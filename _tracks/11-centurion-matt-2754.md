@@ -18,8 +18,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/centurion-matt-2754" scrolling="no" width="100%" height="252" frameborder="0" title="Centurion (Matt. 27:54)"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 You came to me
@@ -87,4 +85,3 @@ Father God, forgive me
 I knew not what I did
 I know now what I do
 ```
-

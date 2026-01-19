@@ -24,9 +24,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/stovokor-jihegh-bonus" scrolling="no" width="100%" height="252" frameborder="0" title="Stovokor jI'Hegh (bonus)"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
-
 ```text
 [Verse 1]
 Sokath, his eyes uncovered

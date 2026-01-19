@@ -15,8 +15,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/set-me-free" scrolling="no" width="100%" height="252" frameborder="0" title="Set Me Free"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 I go to my job by day

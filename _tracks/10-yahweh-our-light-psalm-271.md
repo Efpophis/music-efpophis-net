@@ -15,8 +15,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/yahweh-our-light-psalm-271" scrolling="no" width="100%" height="252" frameborder="0" title="Yahweh Our Light (Psalm 27:1)"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 In this present darkness, 

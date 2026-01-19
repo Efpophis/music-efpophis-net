@@ -18,8 +18,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/amazing-grace" scrolling="no" width="100%" height="252" frameborder="0" title="Amazing Grace"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 Amazing grace, how sweet the sound

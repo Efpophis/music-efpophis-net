@@ -22,8 +22,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/death-and-resurrection" scrolling="no" width="100%" height="252" frameborder="0" title="Death and Resurrection"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Spoken]
 

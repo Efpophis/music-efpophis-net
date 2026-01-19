@@ -14,7 +14,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/sequentia-iii-rex-tremendae" scrolling="no" width="100%" height="252" frameborder="0" title="Sequentia III: Rex Tremendae"></iframe>
 ---
-
 ```text
 [Verse 1]
 Rex tremendae majestatis,

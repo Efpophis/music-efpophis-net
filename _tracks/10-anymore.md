@@ -17,8 +17,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/anymore" scrolling="no" width="100%" height="252" frameborder="0" title="Anymore"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 Here I am down on my knees
@@ -50,4 +48,3 @@ And help me to do what is right
 And cleanse me, remove this guilt from me
 Forgive me, and give me the peace of Your love
 ```
-

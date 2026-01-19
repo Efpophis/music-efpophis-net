@@ -14,7 +14,5 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/sleep-tight-heavy" scrolling="no" width="100%" height="252" frameborder="0" title="Sleep Tight (heavy)"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 This is just a heavy remix of [Sleep Tight](/tracks/06-sleep-tight). See that track for lyrics and info.
  

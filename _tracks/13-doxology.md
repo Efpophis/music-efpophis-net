@@ -17,8 +17,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/doxology" scrolling="no" width="100%" height="252" frameborder="0" title="Doxology"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 All praise to Thee, my God, this night

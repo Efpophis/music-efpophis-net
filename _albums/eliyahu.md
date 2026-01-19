@@ -28,8 +28,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/album/eliyahu" scrolling="no" width="100%" height="252" frameborder="0" title="Eliyahu"></iframe>
 ---
-
-<!-- Album description / liner notes go here. -->
 I've long been a fan of Elijah (pronounced Eliyahu in Hebrew) the Tishbite - the Old Testament prophet whose name means "Yahweh is my God." 
 
 Among other things, Elijah hilariously mocked the false god Ba'al before showing his followers who's really in charge (see the title track for details). So, I decided to do a concept album based on him - Elijah, not Ba'al.

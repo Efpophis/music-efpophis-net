@@ -15,8 +15,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/bortas-bir-jimej-bonus" scrolling="no" width="100%" height="252" frameborder="0" title="BortaS bIr jImej (bonus)"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse]
 Raq vIghro' wahIvmoHvaD qaStaHvIS lo'

@@ -16,8 +16,6 @@ embed_html: |
   --> 
   <iframe src="https://audiomack.com//embed/billcrossley/song/the-henchmans-prayer-live-remastered" scrolling="no" width="100%" height="252" frameborder="0" title="The Henchman's Prayer (live, remastered)"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 This is what [Centurion](/tracks/11-centurion-matt-2754) originally sounded like.
 
 ```text

@@ -22,8 +22,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/idiots-love-song" scrolling="no" width="100%" height="252" frameborder="0" title="Idiot's Love Song"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 For most of my life, the one thing I wanted

@@ -17,8 +17,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/be-thou-my-vision" scrolling="no" width="100%" height="252" frameborder="0" title="Be Thou My Vision"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse]
 Be thou my vision, O Lord of my heart;

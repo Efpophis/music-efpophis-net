@@ -7,7 +7,7 @@ album_title: Death and Resurrection
 artist: The Redeemer Project
 track_number: 4
 notes: |
-  I recovered this track from an ancient cassette tape I found in my basement that had a few old Redeemer recordings on it. It's loosely based on a couple of psalms. I had completely forgotten we had even done it until I heard it on the tape. I figured it would make a good "majestic doom metal" piece, and apparently I was not wrong.
+  <p>I recovered this track from an ancient cassette tape I found in my basement that had a few old Redeemer recordings on it. It's loosely based on a couple of psalms. I had completely forgotten we had even done it until I heard it on the tape. I figured it would make a good "majestic doom metal" piece, and apparently I was not wrong.</p>
 
 embed_html: |
   <!-- Paste the Audiomack TRACK embed iframe here -->

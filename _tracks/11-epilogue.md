@@ -7,6 +7,7 @@ album_title: Eliyahu
 artist: The Redeemer Project
 track_number: 11
 notes: "This serves as an instrumental bridge between the Elijah concept and the rest of the album. It was actually part of the next song, but the intro was so unbearably long that I felt the need to split it into a separate track."
+hide_lyrics: 1
 embed_html: |
   <!-- Paste the Audiomack TRACK embed iframe here -->
   <!-- Example:

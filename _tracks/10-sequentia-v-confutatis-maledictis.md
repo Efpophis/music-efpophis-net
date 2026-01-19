@@ -14,7 +14,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/sequentia-v-confutatis-maledictis" scrolling="no" width="100%" height="252" frameborder="0" title="Sequentia V: Confutatis Maledictis"></iframe>
 ---
-
 ```text
 [Verse 1]
 Confutatis maledictis (Confutatis maledictis)

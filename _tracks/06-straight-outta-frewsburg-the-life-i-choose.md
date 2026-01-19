@@ -16,8 +16,6 @@ embed_html: |
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/straight-outta-frewsburg-the-life-i-choose" scrolling="no" width="100%" height="252" frameborder="0" title="Straight Outta Frewsburg (The Life I Choose)"></iframe>
 ---
-
-<!-- Lyrics / commentary go here. -->
 ```text
 [Verse 1]
 In the dark alleyways, where pain is the norm
