@@ -14,13 +14,10 @@ listen_links:
 download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
-    url: https://mega.nz/file/lBgWSbgb#cgeOhlxOvhvQLV21BAk5C0Jb4xlmZ8EKoc6r32bi3YE
-  - label: "Download M4A"
-    comment: "Apple AAC files."
-    url: https://mega.nz/file/5AIgWL7R#KXhBlYFYrJi7l2QW9_3O90iHUUWF7Vj6u5JUNFaiO0Q
+    url: https://mega.nz/file/BQgmFIyY#-7CnpITbC-kE8YTQ2ZqUzZQWtgOnNFM3zLOSJzFkWF0
   - label: "Download FLAC"
     comment: "Lossless for audiophiles. Largest file size."
-    url: https://mega.nz/file/cY5zhT6Y#adbXdO4fQAQxUpXPbBSa0cxkGkrO6WLsK8gtsCNSEPI
+    url: https://mega.nz/file/IFhBwAbI#2DyVHB8MqoRRCFXGekWqGIEGjvnXNp0RFDBxuzZHYfQ
 embed_html: |
   <!-- Paste the Audiomack ALBUM embed iframe here -->
   <!-- Example:
@@ -34,4 +31,4 @@ So this time, I looked to the East at Byzantine and Greek Orthodox tradition. Th
 
 It's very heavy, and sometimes very dark and intense - exactly the way I like it, with a cohesive concept binding it all together. It can be thought of as a service or liturgy of its own, but it also tells a story that can read like an abridged chronology of the Church throughout history, up to history's end.
 
-This album is dedicated to the memory Brother Apollo (RIP), a monk of the Docheiariou Monestary at Mount Athos, Greece, who was also a world-renowned amateur radio operator (call sign <a href="https://qrz.com/db/SV2ASP" target=_blank>SV2ASP/A</a>) and a true friend to hundreds of thousands of radio amateurs around the globe. Well done, good and faithful servant.
+This album is dedicated, first and foremost, to my LORD and Saviour, Jesus Christ; and secondarily to the memory Brother Apollo (RIP), a monk of the Docheiariou Monestary at Mount Athos, Greece, who was also a world-renowned amateur radio operator (call sign <a href="https://qrz.com/db/SV2ASP" target=_blank>SV2ASP/A</a>) and a true friend to hundreds of thousands of radio amateurs around the globe. Well done, good and faithful servant.

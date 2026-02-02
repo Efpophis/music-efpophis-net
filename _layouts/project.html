@@ -2,12 +2,13 @@
 layout: default
 ---
 <div class="hero">
-  <h1>{{ page.title }}</h1>
-  {% if page.summary %}<p>{{ page.summary }}</p>{% endif %}
-  <div class="meta">
-    {% if page.years %}<span>{{ page.years }}</span>{% endif %}
-    {% if page.style %}<span>{{ page.style }}</span>{% endif %}
-  </div>
+   {% if page.icon %}<img src="{{ page.icon }}" height=100 width=100 style="float: right; margin-right: 10px">{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.summary %}<p>{{ page.summary }}</p>{% endif %}
+    <div class="meta">
+      {% if page.years %}<span>{{ page.years }}</span>{% endif %}
+      {% if page.style %}<span>{{ page.style }}</span>{% endif %}
+    </div>     
 </div>
 
 <div class="grid">
