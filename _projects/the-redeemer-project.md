@@ -5,6 +5,7 @@ summary: "Experimental AI Generated (mostly) Christian (mostly) Metal."
 years: "2024–2025"
 sort_order: 1
 style: "Various (Christian metal, experimental)"
+icon: /assets/img/cross_star.png
 download_links:
     - label: "Download MP3"
       url: https://mega.nz/file/QRIUHCza#LOme7NvnyNRQdTxa694pOSL7EH12yAVuX25hVUT-u0E
