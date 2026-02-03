@@ -7,7 +7,7 @@ artist: "Death Astonished"
 cover: /assets/img/mors-stupebit.jpg
 release_date: 2025-09-28
 og_image: /assets/img/mors-stupebit.jpg
-description: "Bill Crossley's debut 'solo' album."
+description: "Bill Crossley's debut 'solo' album." 
 listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/mors-stupebit
@@ -16,10 +16,10 @@ listen_links:
 download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
-    url: https://mega.nz/file/dUYAxDYB#meve7m3t4ikkld_P2U-XwLmmqQkCPct969ufoNW-0G8
+    url: https://mega.nz/file/tZRhjaJB#levaR-OEFr9MBPQEGO8bSXU3KlbNHoq_2Zv2DI4itsQ
   - label: "Download FLAC"
     comment: "Lossless for audiophiles. Largest file size."
-    url: https://mega.nz/file/AdQFRB6R#HJ6RCctUy8NXV57EZMCYc03aKPBjFeG64HW6WKiDVps
+    url: https://mega.nz/file/BUQB3TbI#V3TpdWHlzfrwZO4AKvunu1Ezqsj_Ns5joXYiPvQsm-E
 embed_html: |
   <!-- Paste the Audiomack ALBUM embed iframe here -->
   <!-- Example:
