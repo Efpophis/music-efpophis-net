@@ -4,7 +4,7 @@ title: "Orthodox"
 slug: 05-orthodox
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 5
 notes: |
   <p>The title track warns of the dangers of listening to alternate gospels, which aren't gospels at all, and falling away from the true faith. Scripture tells us that many deceivers will come, many will preach their own ideas, many will say this and that, here is Christ, there is Christ, or even "I am Christ."  Even miracle working angels are not to be believed or followed.</p>

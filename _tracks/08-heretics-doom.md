@@ -4,7 +4,7 @@ title: "Heretic's Doom"
 slug: 08-heretics-doom
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 8
 notes: |
   <p>Heretic's Doom serves as an antonym for the title track, Orthodox. It warns of the dangers of departing from the true faith in vain pursuit of followers or notoriety.  Eventually, the truth catches up, and God will not be mocked.</p>

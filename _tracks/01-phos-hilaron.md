@@ -4,7 +4,7 @@ title: "Phos Hilaron"
 slug: 01-phos-hilaron
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 1
 notes: |
   <p>This is the track that inspired the whole album. Phos Hilaron, or "Gladsom Light," or if you want to be hyper-literal, "Hilarious Light" .. is one of the oldest written Christian hymns, if not THE oldest, dating back to the third century. It was often sung as an opening hymn to evening prayers.</p>

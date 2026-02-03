@@ -4,7 +4,7 @@ title: "Apocalypse"
 slug: 09-apocalypse
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 9
 notes: |
   <p>Apocalypse is a Greek word. It doesn't actually mean "the end of the world," but rather a sense of revealing a once-hidden truth or person. The original title of the book of Revelation is "The Apocalypse of Jesus Christ," meaning that Jesus Christ is, at last, to be revealed to the world as true God and King. Of course, this would signify the end of the present age of sin and rebellion tempered by grace and salvation, but it is also a new beginning.</p>

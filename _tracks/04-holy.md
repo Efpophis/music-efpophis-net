@@ -4,7 +4,7 @@ title: "Holy"
 slug: 04-holy
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 4
 notes: "Holy is a straight up, no frills, praise hymn in the byzantine tradition, but as a bombastic doom metal piece. It's meant to be simple and accessible while hitting hard and heavy."
 embed_html: |

@@ -4,7 +4,7 @@ title: "The Holy Monks of Mount Athos"
 slug: 06-the-holy-monks-of-mount-athos
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 6
 notes: |
   <p>Mount Athos sits at the end of one of the many Greek peninsulas in the north of the county. Tradition has it that Mary, mother of Jesus, visited the site in antiquity, and so it is often called "the garden of the Theokotos (mother of God)."</p>

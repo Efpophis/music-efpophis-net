@@ -4,7 +4,7 @@ title: "Christos Anesti"
 slug: 02-christos-anesti
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 2
 notes: |
   <p>For this song, I have combined three different ancient Greek hymns:</p>

@@ -4,7 +4,7 @@ title: "Bridgekeeper"
 slug: 10-bridgekeeper
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 10
 notes: "This is just a standard black metal song based on the bridgekeeper scene from Monty Python and the Holy Grail. If you get it, you get it. If not .. you should really go watch the movie."
 embed_html: |

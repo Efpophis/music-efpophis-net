@@ -4,7 +4,7 @@ title: "Prisoner of Liturgy"
 slug: 07-prisoner-of-liturgy
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 7
 notes: |
   <p>Many ancient traditions, Eastern and Western alike, are heavily liturgical and steeped in ancient tradition. This is all well and good, so long as tradition does not come to violate the word of God. Jesus warned his contemporaries, "why do you, by your traditions, invalidate the word of God?"</p>

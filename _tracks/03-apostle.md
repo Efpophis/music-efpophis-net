@@ -4,7 +4,7 @@ title: "Apostle"
 slug: 03-apostle
 album: orthodox
 album_title: "Orthodox"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 3
 notes: |
   <p>Ancient tradition holds that the Apostle John may have been allowed by God to remain alive on earth until Christ's return. This would be an incredible miracle as John would be over 2000 years old by now. I wrote this song and <a href="/tracks/09-apocalypse">Apocalypse</a> with that legend in mind - what if it were true?</p>
