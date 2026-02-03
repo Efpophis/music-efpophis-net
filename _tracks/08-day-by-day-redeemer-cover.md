@@ -4,7 +4,7 @@ title: "Day By Day (Redeemer Cover)"
 slug: 08-day-by-day-redeemer-cover
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 8
 notes: |
   <p>Day By Day was a fun little song we used to sing back in the Redeemer days. It never made it onto a recording, never got written down, and was played live maybe 3 or 4 times. I had wanted to include it on my first Redeemer Project album, but not a single one of us could remember enough of the lyrics.</p>

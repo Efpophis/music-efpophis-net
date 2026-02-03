@@ -4,7 +4,7 @@ title: "The Faithful Dead (Rev 7:9-17)"
 slug: 12-the-faithful-dead-rev-79-17
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 12
 
 embed_html: |

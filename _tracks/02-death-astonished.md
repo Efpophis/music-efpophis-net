@@ -4,7 +4,7 @@ title: "Death Astonished"
 slug: 02-death-astonished
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 2
 notes: |
   <p>This is actually the first track I made for this album. It was inspired entirely by a single phrase from Requiem Ex Mortis: 'mors stupebit et natura', meaning 'death and nature shall be astonished'. I took that image and ran with it in the lyrics.</p>

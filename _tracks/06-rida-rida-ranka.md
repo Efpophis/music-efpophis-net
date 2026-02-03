@@ -4,7 +4,7 @@ title: "Rida Rida Ranka"
 slug: 06-rida-rida-ranka
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 6
 notes: |
   <p>This is a Scandinavian nursery rhyme that my Swedish great-grandfather used to sing to my mom when she was a baby. It's typically sung while the child is joyfully bounced on the singer's lap, as if riding a horse. We used to have a recording of Grandpa Rudy speaking some of the words, but it unfortunately degraded over time and wasn't intelligible by the time I got my hands on it. The spoken intro is my attempt to replicate it.</p>

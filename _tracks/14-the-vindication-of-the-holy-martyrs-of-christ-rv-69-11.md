@@ -4,7 +4,7 @@ title: "The Vindication of the Holy Martyrs of Christ (Rv. 6:9-11)"
 slug: 14-the-vindication-of-the-holy-martyrs-of-christ-rv-69-11
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 14
 
 embed_html: |

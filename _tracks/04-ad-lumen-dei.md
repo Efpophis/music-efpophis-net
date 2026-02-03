@@ -4,7 +4,7 @@ title: "Ad Lumen Dei"
 slug: 04-ad-lumen-dei
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 4
 notes: "I really like the ethereal combination of Gregorian chant and metal that came together for this track. Of course, it's in Latin because you know I can't resist writing songs in foreign languages."
 embed_html: |

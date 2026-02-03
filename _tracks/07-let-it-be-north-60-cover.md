@@ -4,7 +4,7 @@ title: "Let it Be (North 60 Cover)"
 slug: 07-let-it-be-north-60-cover
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 7
 notes: |
   <p>The North 60 is a great little local project/band headed by Jim MacDonald, a friend of ours from the Redeemer days. This cover is very true to the original and is used here with explicit permission from Jim. I take no credit for any of this other than for seeing what the AI could do with it.</p>

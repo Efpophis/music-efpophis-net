@@ -4,7 +4,7 @@ title: "Whispers in the Dark"
 slug: 16-whispers-in-the-dark
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 16
 notes: |
   <p>Everyone, if they've lived and loved enough, has a story like this. Maybe it was a first love, maybe it was a friendship where you wanted more and the other person didn't, or maybe both of you were too scared to make a move, and for whatever reason, it never happened.</p>

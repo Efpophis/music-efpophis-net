@@ -3,7 +3,7 @@ layout: album
 title: "Mors Stupebit"
 slug: mors-stupebit
 project: solo-works
-artist: "Bill Crossley"
+artist: "Death Astonished"
 cover: /assets/img/mors-stupebit.jpg
 release_date: 2025-09-28
 og_image: /assets/img/mors-stupebit.jpg
@@ -17,9 +17,6 @@ download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
     url: https://mega.nz/file/dUYAxDYB#meve7m3t4ikkld_P2U-XwLmmqQkCPct969ufoNW-0G8
-  - label: "Download M4A"
-    comment: "Apple AAC files. Smallest files size."
-    url: https://mega.nz/file/AJYlHLiI#PttYKcyB21m9He3hnBYjXEwtcNBDSR9sB1ed2IdQBSI
   - label: "Download FLAC"
     comment: "Lossless for audiophiles. Largest file size."
     url: https://mega.nz/file/AdQFRB6R#HJ6RCctUy8NXV57EZMCYc03aKPBjFeG64HW6WKiDVps

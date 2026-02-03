@@ -4,7 +4,7 @@ title: "She Is My Peace"
 slug: 17-she-is-my-peace
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 17
 notes: |
   <p>Every so often, I wake up from a nightmare - usually about something horrible happening, or losing everything that's ever mattered to me. Sometimes they're sad. Sometimes they're frightening. Sometimes I wake up feeling completely lost and alone.</p>
