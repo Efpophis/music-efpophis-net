@@ -3,6 +3,7 @@ slug: instrumental-projects
 title: Instrumental Projects
 summary: "Instrumental and meditative works. AI-generated miscellaneous stuff."
 years: "2025–present"
+icon: /assets/img/bill_crossley.png
 sort_order: 3
 style: "Instrumental / cinematic"
 ---
