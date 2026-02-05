@@ -77,16 +77,16 @@ Amen
 
 [Outro]
 Hymnon asomen
-Pros Patera kai Huion
-Kai Hagion Pneuma
-
+pros Patera kai Huion
+kai Hagion Pneuma
 Pasai hai dynameis
-Apokrotesato
+apokrotesato
+
 Amen
 Amen
 
-[Ending]
 Sigato
 Sigato
-[End]
+
+[Ending - fade out instruments]
 ```
