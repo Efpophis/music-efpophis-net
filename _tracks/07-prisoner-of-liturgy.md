@@ -45,7 +45,7 @@ No conviction - no desire
 No transformation - no salvation
 Only fear
 
-[CHORUS (harsh)]
+[CHORUS]
 Prisoner of liturgy
 Bound by sacred habit
 Chained to tradition that cannot save
@@ -56,7 +56,6 @@ You guard the door to Paradise
 While falling to your doom
 
 [Interlude]
-[Byzantine chant, clean male voices, ison drone]
 [Greek]
 Κύριε ἐλέησον
 χωρὶς καρδίαν
