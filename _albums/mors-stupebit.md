@@ -2,7 +2,7 @@
 layout: album
 title: "Mors Stupebit"
 slug: mors-stupebit
-project: solo-works
+project: death-astonished
 artist: "Death Astonished"
 cover: /assets/img/mors-stupebit.jpg
 release_date: 2025-09-28

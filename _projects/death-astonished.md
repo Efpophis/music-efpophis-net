@@ -1,7 +1,7 @@
 ---
-slug: solo-works
+slug: death-astonished
 title: "Death Astonished"
-summary: "Bill Crossley 'solo' releases. AI-Generated Christian Metal."
+summary: "Post-Redeemer-Project 'solo' effort. AI-Generated Christian Metal."
 years: "2025–present"
 sort_order: 2
 icon: /assets/img/death_astonished.png

@@ -32,6 +32,10 @@ I've made a couple of experimental instrumantal / meditative compilations that a
 
 This is my new "band name" moving forward for Christian metal and other genre projects. The name comes form a line in the Requiem mass that says "mors stupebit et natura," meaning "death and nature will be astonished."  The album [Mors Stupebit](/albums/mors-stupebit), originally released with the "artist" set to "Bill Crossley," has been re-mastered and re-relesed under this name since it's a more appropriate place for it, and the album needed a kick in the bass.
 
+## Method in Madness
+
+This is a dumping-ground for one-off parodies, remixes, failed experiments, secular stuff, and general shenanigans that have not much in common with the rest of my projects. If you find anything consistent in here, it will be weirdness.  You've been warned.
+
 # Faith's Influence
 
 I don't feel the need to say a whole lot here about my personal faith and beliefs. The music I release and the lyrics should make that obvious. More importantly, I hope the way I live my life makes it obvious as well. My faith naturally expresses itself through the music I listen to and write, and that's just how it is. I have written some secular stuff, but I feel it's not as good and not yet worth releasing. Even that stuff is just fun, and doesn't really fit the typical metal, death-metal, or black-metal molds.
