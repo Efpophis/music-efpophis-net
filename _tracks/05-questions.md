@@ -4,7 +4,7 @@ title: "Questions"
 slug: 05-questions
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 5
 notes: |
   <p>It's ok to ask questions. Everyone has them. God would rather you ask questions, complain, even get angry and yell at him - all are much more preferable to him than for you to stop talking to him at all.</p>

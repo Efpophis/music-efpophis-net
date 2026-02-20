@@ -4,7 +4,7 @@ title: "Halleluyah (Ps. 150)"
 slug: 10-halleluyah-ps-150
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 10
 notes: "This track is taken directly from Psalm 150 in its (more or less) original Hebrew text. I did arrange some of the Halleluyahs to make for a more modern structure and flow. For this, I wanted traditional Middle Eastern instruments and scales, but with a modern metal twist. I think it came out great."
 embed_html: |

@@ -4,7 +4,7 @@ title: "Ex Obscurum"
 slug: 03-ex-obscurum
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 3
 notes: "This is simply the very cool result of my experimenting with metal plus pipe organs using the Locrian scale for tension and a dark feel."
 hide_lyrics: 1

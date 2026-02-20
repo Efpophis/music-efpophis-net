@@ -4,7 +4,7 @@ title: "Answers"
 slug: 13-answers
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 13
 notes: |
   <p>It's okay to ask questions. Especially if you know Who the answer is.</p>

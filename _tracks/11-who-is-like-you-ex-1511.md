@@ -4,7 +4,7 @@ title: "Who is Like You? (Ex. 15:11)"
 slug: 11-who-is-like-you-ex-1511
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 11
 notes: "Another traditional Hebrew hymn with English lyrics and a metal twist. The Hebrew is translated in-song."
 embed_html: |

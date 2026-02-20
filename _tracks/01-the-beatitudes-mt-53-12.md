@@ -4,7 +4,7 @@ title: "The Beatitudes (Mt. 5:3-12)"
 slug: 01-the-beatitudes-mt-53-12
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 1
 
 embed_html: |

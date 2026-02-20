@@ -1,21 +1,19 @@
 ---
 layout: track
-title: "Rida Rida Ranka"
-slug: 06-rida-rida-ranka
-album: mors-stupebit
-album_title: "Mors Stupebit"
-artist: "Death Astonished"
-track_number: 6
+title: "Rida Rida Ranka (bardcore)"
+slug: 15-rida-rida-ranka-bardcore
+album: singularity
+album_title: "Singularity"
+artist: "Method in Madness"
+track_number: 15
 notes: |
-  <p>This is a Scandinavian nursery rhyme that my Swedish great-grandfather used to sing to my mom when she was a baby. It's typically sung while the child is joyfully bounced on the singer's lap, as if riding a horse. We used to have a recording of Grandpa Rudy speaking some of the words, but it unfortunately degraded over time and wasn't intelligible by the time I got my hands on it. The spoken intro is my attempt to replicate it.</p>
-
-  <p>As always, metal makes everything better - especially Swedish nursery rhymes.</p>
+  <p>A Bardcore cover of <a href="/tracks/06-rida-rida-ranka">Rida Rida Ranka</a> from <a href="/albums/mors-stupebit">Mors Stupebit</a>.</p>
 embed_html: |
   <!-- Paste the Audiomack TRACK embed iframe here -->
   <!-- Example:
   <iframe src="https://audiomack.com/embed/song/ARTIST/TRACKSLUG" width="100%" height="110" frameborder="0" scrolling="no"></iframe>
   -->
-  <iframe src="https://audiomack.com//embed/billcrossley/song/rida-rida-ranka" scrolling="no" width="100%" height="252" frameborder="0" title="Rida Rida Ranka"></iframe>
+  <iframe src="https://audiomack.com//embed/billcrossley/song/rida-rida-ranka-bardcore" scrolling="no" width="100%" height="252" frameborder="0" title="Rida Rida Ranka (bardcore)"></iframe>
 ---
 ```text
 [Intro: spoken]

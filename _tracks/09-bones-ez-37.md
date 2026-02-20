@@ -4,7 +4,7 @@ title: "Bones (Ez. 37)"
 slug: 09-bones-ez-37
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 9
 notes: "The AI got a major upgrade recently, and since then, I have been able to experiment more with much more detailed prompts. I can now do things like specify instruments and tonal scales, etc.. So I ran with it and asked it to make me some metal using traditional Middle Eastern instruments, scales, and rhythms. This is my first result. It's ridiculously long, probably boring, etc. But it has this great dark desert feel to it that really gets under your skin, while also conjuring images of early to mid-1970s prog rock and early heavy metal. Give it a chance. It'll grow on you."
 embed_html: |

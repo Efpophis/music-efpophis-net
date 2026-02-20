@@ -4,7 +4,7 @@ title: "Shout (Ps. 100)"
 slug: 15-shout-ps-100
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 15
 notes: |
   <p>Honestly, I was never much of a fan of Ozzy Osbourne or Black Sabbath. I didn't get into heavy metal until after my conversion to Christianity, and my first exposure to the genre consisted entirely of Christian bands like Deliverance, Stryper, Believer, Mortification, Saviour Machine, etc. I still don't listen to secular metal - at least not on purpose, and definitely not on a regular basis. There's plenty of really good Christian stuff out there, so I don't really feel the need to entertain the secular stuff.</p>

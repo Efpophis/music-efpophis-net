@@ -4,7 +4,7 @@ title: "The Continuing Saga of Florida Man (bonus)"
 slug: 18-the-continuing-saga-of-florida-man-bonus
 album: mors-stupebit
 album_title: "Mors Stupebit"
-artist: "Bill Crossley"
+artist: "Death Astonished"
 track_number: 18
 notes: "The headlines just keep comin'"
 embed_html: |
