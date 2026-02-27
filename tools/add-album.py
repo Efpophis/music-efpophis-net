@@ -133,7 +133,7 @@ def main():
         description="Add an album to the Jekyll site by generating _albums/_tracks and copying cover art."
     )
     ap.add_argument("--title", required=True, help="Album title (display).")
-    ap.add_argument("--project", required=True, help="Project key (e.g. the-redeemer-project, solo-works).")
+    ap.add_argument("--project", required=True, help="Project key (e.g. the-redeemer-project, death-astonished).")
     ap.add_argument("--artist", required=True, help="Artist display name (e.g. Bill Crossley).")
     ap.add_argument("--year", default=None, help="Year (optional).")
     ap.add_argument("--album-slug", default=None, help="Album slug override. Default derived from title.")
