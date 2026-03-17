@@ -36,7 +36,7 @@ title: "Bill Crossley's Music Catalog"
       <span class="tag"><a href="{{ '/about/' | relative_url }}">About</a></span>
     </div>
     <div class="tagrow"> 
-      <span class="tag"><a href="https://youtube.com/@theredeemerprojectmetal" target=_blank>YouTube</a></span>
+      <span class="tag"><a href="https://youtube.com/@deathastonished" target=_blank>YouTube</a></span>
       <span class="tag"><a href="https://www.facebook.com/profile.php?id=61558951555423" target=_blank>FaceBook</a></span>
       <span class="tag"><a href="https://audiomack.com/billcrossley/albums" target=_blank>Audiomack</a></span>
     </div>
