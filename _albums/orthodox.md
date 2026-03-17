@@ -2,7 +2,7 @@
 layout: album
 title: "Orthodox"
 slug: orthodox
-project: "solo-works"
+project: death-astonished
 artist: "Bill Crossley"
 cover: /assets/img/orthodox.jpg 
 release_date: 2026-04-05
