@@ -10,7 +10,7 @@ listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/orthodox
   - label: YouTube
-    url: --placeholder--
+    url: https://youtu.be/ikZraVOkycc
 download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
@@ -31,4 +31,4 @@ So this time, I looked to the East at Byzantine and Greek Orthodox tradition. Th
 
 It's very heavy, and sometimes very dark and intense - exactly the way I like it, with a cohesive concept binding it all together. It can be thought of as a service or liturgy of its own, but it also tells a story that can read like an abridged chronology of the Church throughout history, up to history's end.
 
-This album is dedicated, first and foremost, to my LORD and Saviour, Jesus Christ; and secondarily to the memory Brother Apollo (RIP), a monk of the Docheiariou Monastary at Mount Athos, Greece, who was also a world-renowned amateur radio operator (call sign <a href="https://qrz.com/db/SV2ASP" target=_blank>SV2ASP/A</a>) and a true friend to hundreds of thousands of radio amateurs around the globe. Well done, good and faithful servant.
+This album is dedicated, first and foremost, to my LORD and Saviour, Jesus Christ; and secondarily to the memory Brother Apollo (RIP), a monk of the Docheiariou Monastery at Mount Athos, Greece, who was also a world-renowned amateur radio operator (call sign <a href="https://qrz.com/db/SV2ASP" target=_blank>SV2ASP/A</a>) and a true friend to hundreds of thousands of radio amateurs around the globe. Well done, good and faithful servant.

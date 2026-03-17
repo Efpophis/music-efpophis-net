@@ -11,7 +11,7 @@ notes: |
 
   <p>Today, the peninsula is home to several Greek Orthodox monasteries and has its own government separate from that of Greece Proper. It is considered the center of Orthodox Christianity, much the same was as the Vatican is considered the center of Western/Roman Catholic Christianity.</p>
 
-  <p>A few years ago, I had the great privilege to have a brief contact via amateur radio with one of the monks living there: Brother Apollo from the Docheiariou Monastary. Shown is a postcard I have as proof of the contact:</p>
+  <p>A few years ago, I had the great privilege to have a brief contact via amateur radio with one of the monks living there: Brother Apollo from the Docheiariou Monastery. Shown is a postcard I have as proof of the contact:</p>
 
   <img src="/assets/img/sv2asp-qsl-front.jpg" style="width: 55vw; min-width: 330px;">
   <img src="/assets/img/sv2asp-qsl-back.jpg" style="width: 55vw; min-width: 330px;">
