@@ -40,11 +40,11 @@ To that end, in about 1993 or '94, I and a few friends formed a Christian rock g
 
 The original Redeemer was, is, and ever shall be: 
 
-Mark Fisher - awesome lead vocals
-Mark Rounds - face-melting lead and rhythm guitar
-Scott Mattson - absolutely amazing drums
-Dan Walter - excellent bass guitar
-Bill Crossley (me) - mediocre keyboards and sometimes backing vocals 
+* Mark Fisher - awesome lead vocals
+* Mark Rounds - face-melting lead and rhythm guitar
+* Scott Mattson - absolutely amazing drums
+* Dan Walter - excellent bass guitar
+* Bill Crossley (me) - mediocre keyboards and sometimes backing vocals 
 
 I had to leave the band in 1995 as I was going away to college and didn't want to hold the guys back due to my inability to practice or participate much from a distance. They went on to produce a demo cassette tape, and then 2 CDs which came after a name change to Wonderboy, PhD. None of the songs from my tenure made it to any of these, but the guys were kind enough to give me a shout-out and author credit anyway.
 
@@ -63,6 +63,8 @@ Once the song is the way I like it, I save it onto my cloud drive and move on to
 
 Therefore, The Redeemer Project is:
 
-Lyrics by the original Redeemer guys (unless otherwise indicated), with my own edits, and their blessing.
-Music and vocals by Mr. Microchips at suno.com, unless otherwise indicated, with minor edits and additions by Bill Crossley.
-Please follow The Redeemer Project on Bandcamp for further information, albums, tracks, etc.
+* Lyrics by the original Redeemer guys (unless otherwise indicated), with my own edits, and their blessing.
+* Music and vocals by the AI at suno.com, unless otherwise indicated, with minor edits and additions by Bill Crossley.
+
+Please check out my [AudioMack](https://audiomack.com/billcrossley) and [YouTube](https://youtube.com/@deathastonished)
+pages for more info and all content.

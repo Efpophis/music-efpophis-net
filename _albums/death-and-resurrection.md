@@ -12,7 +12,7 @@ listen_links:
   - label: Audiomack
     url: https://audiomack.com/billcrossley/album/death-and-resurrection
   - label: YouTube
-    url: https://youtube.com/@theredeemerprojectmetal
+    url: https://youtube.com/@DeathAstonished
 download_links:
   - label: "Download MP3"
     comment: "320kbps high quality. Most compatible."
