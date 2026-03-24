@@ -26,4 +26,6 @@ embed_html: |
   <iframe src="https://audiomack.com/embed/song/ARTIST/TRACKSLUG" width="100%" height="110" frameborder="0" scrolling="no"></iframe>
   -->
   <iframe src="https://audiomack.com//embed/billcrossley/song/the-holy-monks-of-mount-athos" scrolling="no" width="100%" height="252" frameborder="0" title="The Holy Monks of Mount Athos"></iframe>
+  <p>Watch</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7VqeUe5AuXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
