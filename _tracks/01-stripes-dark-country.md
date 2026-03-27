@@ -1,11 +1,11 @@
 ---
 layout: track
 title: "Stripes (dark country)"
-slug: 22-stripes-dark-country
-album: singularity
-album_title: "Singularity"
-artist: "Method in Madness"
-track_number: 23
+slug: 01-stripes-dark-country
+album: deep-cuts
+album_title: "Deep Cuts"
+artist: "Death Astonished"
+track_number: 1
 notes: "'Stripes' should have a dark country version. -- No one ever."
 hide_lyrics: 0
 embed_html: |

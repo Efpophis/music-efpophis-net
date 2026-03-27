@@ -1,11 +1,11 @@
 ---
 layout: track
-title: "Sunday School Mashup"
-slug: 25-sunday-school-mashup
-album: singularity
-album_title: "Singularity"
-artist: "Method in Madness"
-track_number: 25
+title: "Jesus Loves Me/Nothing But The Blood"
+slug: 13-sunday-school-mashup
+album: deep-cuts
+album_title: "Deep Cuts"
+artist: "Death Astonished"
+track_number: 13
 notes: |
   <p>In the tradition of metal-izing old hymns, I had to do a 'Jesus Loves Me/Nothing But The Blood' mashup. The idea came to me when I realized that bits of each song share the same rhythm.</p>
 hide_lyrics: 0

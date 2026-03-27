@@ -1,11 +1,11 @@
 ---
 layout: track
 title: "Psalm 150 (sparkle party mix)"
-slug: 24-psalm-150-sparkle-party
-album: singularity
-album_title: "Singularity"
-artist: "Method in Madness"
-track_number: 24
+slug: 09-psalm-150-sparkle-party
+album: deep-cuts
+album_title: "Deep Cuts"
+artist: "Death Astonished"
+track_number: 9
 notes: "Do you like to sparkle party? So hardcore ... "
 hide_lyrics: 0
 embed_html: |
