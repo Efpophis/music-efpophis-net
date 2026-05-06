@@ -62,14 +62,14 @@ Now we have come
 to the setting of the sun 
 we behold the evening light. 
 We praise the Father, 
-We praise the Son, 
-We praise the Spirit.
-As one!
+And the Son, 
+And the Holy Spirit.
+We praise God as one!
 
 [Verse 6]
 For it is right at all times
 to worship you with songs of praise 
-O Son of God and Giver of Life, 
+O Son of God, O Giver of Life, 
 The world is filled with your glory
 
 [Outro – slow fading chant, bells echoing]
